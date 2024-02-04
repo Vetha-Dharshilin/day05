@@ -11,6 +11,7 @@ var resume = {
         Cpga :"86%",
         HSC :"51%",
         SSLC : "85%" },
+        
   };
   var count = Object.keys(resume);
   console.log(resume);
